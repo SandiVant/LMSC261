@@ -5,3 +5,4 @@ I had NO CLUE what I was doing. However, I was able to find the code under this 
 I the put the code in atom and ran it through terminal using the node software.
 
 Luckily it worked so I am a happy camper.
+The only changes I made were deleting some of the notes.
