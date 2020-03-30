@@ -1,4 +1,5 @@
 ### Final Markdown
+Cassandra Sturdivant
 
 # Description of the deliverable-
 
@@ -10,9 +11,7 @@ The objective would be to improve workflow.
 
 # What resources will you use? (specific links to others' code)
 
-I will be using
-
-[https://www.youtube.com/watch?v=UmvQX6k8iqs] and [https://playcode.io/empty] to run the code itself.
+I will be using [https://www.youtube.com/watch?v=UmvQX6k8iqs] and [https://playcode.io/empty] to run the code itself.
 
 # What are the use cases? (who is your ‘audience’?)
 
