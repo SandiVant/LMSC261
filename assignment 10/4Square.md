@@ -9,4 +9,4 @@ However I wrote all of the code out by hand myself and I am not sure what i did 
 
 I understand how the code works though, i read through it and I believe what is going on is that each line is being printed individually rather than a code that runs the whole square.
 
-I tried to even rewrite the code and try to run it in terminal and it just wouldn't work.
+I tried to even rewrite the code and try to run it in terminal and it still wouldn't work.
