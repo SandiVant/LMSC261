@@ -1,6 +1,5 @@
-
  ///
- def print_line1(n, m) :
+ def print_line1 (n, m) :
     # Print the starting colum of the box as a '+' for n smaller boxes
     for i in range(1, n+1) :
         print('+', end='')
